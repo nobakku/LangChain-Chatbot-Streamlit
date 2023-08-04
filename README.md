@@ -1,2 +1,2 @@
 # LangChain-Chatbot-Streamlit
-LangChainを使用したStreamlit上で動くchatbot
+LangChainを使用したStreamlit上で動くChatbot
