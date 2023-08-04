@@ -10,7 +10,9 @@ pip3 install streamlit streamlit-chat langchain openai python-dotenv
 ```
 
 ## .envファイルから環境変数を読み込み
-.envファイルを作成し､APIキーを記述
+[OpenAI](https://platform.openai.com/)からAPIキーを取得｡
+
+.envファイルを作成し､先ほど取得したAPIキーを記述
 ```
 OPENAI_API_KEY="sk-..."
 ```
